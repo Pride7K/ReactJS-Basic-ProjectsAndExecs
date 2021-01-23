@@ -1,0 +1,9 @@
+.corpo
+{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    max-width: 500px;
+    padding: 5%;
+    border: 1px solid black;
+}
